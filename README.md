@@ -6,5 +6,5 @@ A collection of functions to interact with iTrack
 Install using `pip`.
 
 ```bash
-pip install git+https://github.com/vmoret/itrack
+pip install git+https://github.com/vmoret/pyitrack
 ```
